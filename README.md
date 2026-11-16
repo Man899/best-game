@@ -1,8 +1,8 @@
 # Voidlight Arena
 
-[![make.fun bounty](https://make.fun/b/best-game-01/badge.svg)](https://make.fun/b/best-game-01)
-[![entry rank](https://make.fun/b/best-game-01/rank.svg?repo=voidlight-arena)](https://make.fun/b/best-game-01)
-[![reward](https://make.fun/b/best-game-01/reward.svg)](https://make.fun/b/best-game-01)
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/Man899/best-game/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/Man899/best-game/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
 **Voidlight Arena** is a neon arena survival shooter: fly a lone light-ship through waves of
 void shards, chain kills into a combo multiplier, pick 1 of 3 upgrades after every cleared
